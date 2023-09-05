@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
-
+//Eto kod katoriy ya napisala 
 function App() {
   const [joke, setJoke] = useState('');
 
